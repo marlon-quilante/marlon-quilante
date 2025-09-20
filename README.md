@@ -22,5 +22,3 @@
     <img src="https://skillicons.dev/icons?i=linkedin" target="_blank">
   </a>
 </div>
-
-![Snake animation](https://github.com/marlon-quilante/marlon-quilante/blob/output/github-contribution-grid-snake.svg)
