@@ -1,7 +1,7 @@
 ## Olá! Me chamo Marlon e este é meu perfil GitHub
 
 - 📚 Sou um estudante da plataforma .NET com foco no back-end
-- 💻 Tenho realizado diversos projetos, tanto em Console Application como em Web Application
+- 💻 Possuo diversos projetos realizados, tanto em Console Application como em Web Application
 
 <div>
   <a href="https://github.com/marlon-quilante">
